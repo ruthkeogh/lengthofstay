@@ -8,7 +8,7 @@
 
 #Approach A is coded 'by hand'. 
 #Approach B performs the same analysis using mstate. 
-#They give identical rseults. Method A is quicker. 
+#They give identical results. Method A is quicker. 
 
 #----------------------------------
 #packages
